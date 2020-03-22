@@ -1,0 +1,76 @@
+{
+  "Solar_System": [
+    {
+      "city": "อำเภอเมืองชลบุรี ชลบุรี",
+      "Maxtemp" : "อุณหภูมิสูงสุดที่ 32 ํC",
+      "image": "https://scontent.fbkk4-3.fna.fbcdn.net/v/t1.0-9/p960x960/34461585_1264366600364260_1532461184664469504_o.jpg?_nc_cat=106&_nc_sid=85a577&_nc_eui2=AeHsjxqZK7vQV35TC-RHaejMN8D4LG-IzRM6Usk5qJRZmM9vb_t3RLQo4Q5nvVBZK0cHvWBOGWBh9oTd3uxzvM4N9vEzU4LlG7SKcGMCG8kr2Q&_nc_ohc=kY400LBsOLwAX__wkRd&_nc_ht=scontent.fbkk4-3.fna&_nc_tp=6&oh=8913e91f63d203d4f0a04bf93c78eaaf&oe=5E9A8369",
+      "positions": "อุณหภูมิต่ำสุดที่ 27 ํC"
+    },
+    {
+      "city": "อำเภอบ้านบึง ชลบุรี",
+      "Maxtemp" : "อุณหภูมิสูงสุดที่ 32 ํC",
+      "image": "https://scontent.fbkk3-3.fna.fbcdn.net/v/t1.0-9/49596048_2207389579509518_2537779291966406656_n.jpg?_nc_cat=104&_nc_sid=85a577&_nc_eui2=AeFalBGt2zMuiXLntxJdYDxcvYy_39DG9uFCLUBEatR7gbtuSgJrUCw0yxMyZ4r5H1MfLrhMXLEYSavqjfN42aYsdz7G_H7nY3ZVo2LFHdcgyA&_nc_ohc=7L-HVGe_X4gAX-iR6FY&_nc_ht=scontent.fbkk3-3.fna&oh=1f84a12f00f0945857d190987b9d8deb&oe=5E9B5451",
+      "positions": "อุณหภูมิต่ำสุดที่ 26 ํC"
+    },
+    {
+      "city": "อำเภอหนองใหญ่ ชลบุรี",
+      "Maxtemp" : "อุณหภูมิสูงสุดที่ 33 ํC",
+      "image": "https://scontent.fbkk4-1.fna.fbcdn.net/v/t31.0-8/24958699_1935999576664271_2227609900942596039_o.jpg?_nc_cat=105&_nc_sid=e007fa&_nc_eui2=AeF07hYwlIWwXferz_ZMxiOzXxkXR9bScGofRqk-H8JxqVPLLsLs6OZU-OSTIjpRoUY0EYBSD2LuL96ViJw88PulsQGFTkZsVWUSeJguo8T05g&_nc_ohc=D3tYLS6t68IAX_mxzAk&_nc_ht=scontent.fbkk4-1.fna&oh=b8f0756ff411f2a78450383e38d44511&oe=5E9B451B",
+      "positions": "อุณหภูมิต่ำสุดที่ 25 ํC"
+    },
+    {
+      "city": "อำเภอบางละมุง ชลบุรี",
+      "Maxtemp" : "อุณหภูมิสูงสุดที่ 31 ํC",
+      "image": "https://scontent.fbkk4-3.fna.fbcdn.net/v/t1.0-9/48383286_294187067876409_8320715158439591936_n.jpg?_nc_cat=100&_nc_sid=85a577&_nc_eui2=AeH9DOGj24wefBeTVEG-iqgbPf4plZ-NzwcOyt8Xkg1_bCzNUSbfQEloUaduCVtcem9WUi16yyes-B-7TCLjwnzntb8QbzPj-NsCew93ZphxgA&_nc_ohc=z15LKogr3dcAX8CcOdK&_nc_ht=scontent.fbkk4-3.fna&oh=94f4f0edb19382fedc6f146180b4bb6a&oe=5E9A5D84",
+      "positions": "อุณหภูมิต่ำสุดที่ 27 ํC"
+    },
+    {
+      "city": "อำเภอพานทอง ชลบุรี",
+      "Maxtemp" : "อุณหภูมิสูงสุดที่ 33 ํC",
+      "image": "https://cdn.baania.com/b10/property-project/9851/photo/556948.jpg",
+      "positions": "อุณหภูมิต่ำสุดที่ 27 ํC"
+    },
+    {
+      "city": "อำเภอพนัสนิคม ชลบุรี",
+      "Maxtemp" : "อุณหภูมิสูงสุดที่ 33 ํC",
+      "image": "https://www.museumthailand.com/upload/evidence/1504184109_68315.jpg",
+      "positions": "อุณหภูมิต่ำสุดที่ 26 ํC"
+    },
+    {
+      "city": "อำเภอศรีราชา ชลบุรี",
+      "Maxtemp" : "อุณหภูมิสูงสุดที่ 32ํC",
+      "image": "https://www.balconythailand.com/wp-content/uploads/2018/10/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%9B%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%99.jpg",
+      "positions": "อุณหภูมิต่ำสุดที่ 27 ํC"
+    },
+    {
+      "city": "อำเภอเกาะสีชัง ชลบุรี",
+      "Maxtemp" : "อุณหภูมิสูงสุดที่ 31 ํC",
+      "image": "https://s.isanook.com/tr/0/ud/281/1409601/pmop.jpg",
+      "positions": "อุณหภูมิต่ำสุดที่ 26 ํC"
+    },
+    {
+      "city": "อำเภอสัตหีบ ชลบุรี",
+      "Maxtemp" : "อุณหภูมิสูงสุดที่ 31 ํC",
+      "image": "https://www.chillpainai.com/src/wewakeup/img_travel/705/1429858109-DSC_7766.jpg",
+      "positions": "อุณหภูมิต่ำสุดที่ 27 ํC"
+    },
+    {
+      "city": "อำเภอบ่อทอง ชลบุรี",
+      "Maxtemp" : "อุณหภูมิสูงสุดที่ 32 ํC",
+      "image": "https://f.tpkcdn.com/images-720/4a6a9e66bc1754d442906ddf4360d20a.jpg",
+      "positions": "อุณหภูมิต่ำสุดที่ 24 ํC"
+    },
+    {
+      "city": "เกาะจันทร์ ชลบุรี",
+      "Maxtemp" : "อุณหภูมิสูงสุดที่ 33 ํC",
+      "image": "https://i.ytimg.com/vi/TDu_2paGjoQ/maxresdefault.jpg",
+      "positions": "อุณหภูมิต่ำสุดที่ 25 ํC"
+    },
+    {
+      "city": "",
+      "Maxtemp" : "",
+      "image": "",
+      "positions": ""
+    }
+  ]
+}
